@@ -11,8 +11,8 @@
 #' @export
 
 getBinByGroupMatrix <- function(binByCell,cell_anno,
+                                group_col="group",
                                 n_sample=1000,
-                                group_col="cellTtypes3_condition",
                                 seed=1000
 ){
   #对于大于n_sample的group随机抽取n_sample个，小于的升采样到n_sample
