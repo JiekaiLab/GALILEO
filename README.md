@@ -81,4 +81,4 @@ pheatmap(data2,
 )
 ```
 
-![](Figures\Rplot.png)
+![](Figures/Rplot.png)
