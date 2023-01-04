@@ -12,7 +12,7 @@ install.packages("devtools")
 Then, install GALILEO from GitHub:
 
 ```R
-devtools::install_github("Zhao-YY/GALILEO")
+devtools::install_github("JiekaiLab/GALILEO")
 ```
 
  This should take no more than a few minutes. 
